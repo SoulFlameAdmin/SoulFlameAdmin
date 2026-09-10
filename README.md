@@ -9,6 +9,7 @@ SoulFlame is a technology ecosystem connecting projects and concepts including *
 ## Official identity
 
 - Founder profile: https://soulflame-twins.vercel.app/founder/dimitar-veselinov-lambov/
+- LinkedIn: https://www.linkedin.com/in/dimitar-lambov-94703b419
 - SoulFlame ecosystem: https://soulflame-twins.vercel.app/ecosystem/
 - SoulFlame Twins: https://soulflame-twins.vercel.app/
 - Public SoulFlame repository: https://github.com/SoulFlameAdmin/Soulflame
@@ -24,7 +25,7 @@ SoulFlame is a technology ecosystem connecting projects and concepts including *
 
 ## Canonical identity relation
 
-`Dimitar Veselinov Lambov → SoulFlame → SoulFlame Twins`
+`LinkedIn → Dimitar Veselinov Lambov → SoulFlameAdmin → SoulFlame → SoulFlame Twins`
 
 `Димитър Веселинов Ламбов → SoulFlame → SoulFlame Twins`
 
